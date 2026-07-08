@@ -7,7 +7,7 @@ I am about to start a postdoc at KTH, where I will work on **simulating cyberatt
 
 ## Publications 
 
-Available [here](https://inria.hal.science/search/index/q/*/authIdHal_s/manuel-poisson)
+Available [here](https://scholar.google.com/citations?user=4oA7QwYAAAAJ&hl=fr&oi=sra)
 
 ## Hobies CTF
 
