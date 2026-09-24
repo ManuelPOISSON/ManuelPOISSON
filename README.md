@@ -1,9 +1,11 @@
 ## Manuel Poisson
 
 I am a researcher in cybersecurity.
+Currently working as [postdoc at KTH](https://www.kth.se/profile/poisson) on **simulating cyberattacks for autonomous penetration testing**.
+
 My PhD focused on the automated **security assesment** of **information systems** using **security twins** to derive and validate **attack paths** (recording [in english](https://www.youtube.com/watch?v=56h7OIPkdDg) and [in french](https://project.inria.fr/attackdefense/evaluation-automatisee-de-la-securite-des-systemes-dinformation-par-la-construction-de-jumeau-de-securite-pour-deriver-et-valider-des-chemins-dattaque/)).
 
-I am about to start a postdoc at KTH, where I will work on **simulating cyberattacks for autonomous penetration testing**.
+
 
 ## Publications 
 
